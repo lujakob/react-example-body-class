@@ -5,4 +5,5 @@ Demo app that shows how to use react-side-effects to create a component to manip
 Uses:
 
 https://github.com/facebookincubator/create-react-app
+
 https://github.com/gaearon/react-side-effect
